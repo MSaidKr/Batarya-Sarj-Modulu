@@ -1,6 +1,6 @@
 # 🔋 Batarya Şarj ve Kontrol Modülü (Li-ion Charger & Lcd Monitor)
 
-![Proje Görseli](Gorseller/IMG_20260323_053911.jpg)
+![Proje Görseli](Gorseller/kapak.jpg)
 
 Bu proje; [cite_start]Li-ion pillerin (18650, 18500 ve mobil cihaz bataryaları) güvenli bir şekilde şarj edilmesini sağlarken, anlık akım ve voltaj değerlerini dijital bir ekran üzerinden takip etmeyi amaçlar[cite: 1, 2, 20].
 
