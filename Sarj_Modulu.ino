@@ -24,8 +24,9 @@ void setup(void) {
     lcd.print("Kablolari SIKISTIR");
     Serial.println("INA219 bulunamadi. Baglantilari kontrol et!");
     while (1) { delay(10); } 
-  } else {
-    // İşte aradığın o onay mesajı!
+  } 
+  else 
+  {
     lcd.clear();
     lcd.setCursor(0, 0);
     lcd.print("INA219: OK!");
